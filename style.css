@@ -1,0 +1,39 @@
+body {
+    background: lightslategray;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 12vw;
+    padding: 5%;
+    text-align: center;
+}
+
+.location {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 2%;
+}
+
+.timezone-info {
+    
+    justify-content: left;
+    align-items: center;
+   
+}
+.temperature {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.timezone, .icon{
+    text-align: center;
+}
+
+.degree, .unit {
+    margin: 5px;
+}
+
+.description {
+    font-size: medium;
+}
