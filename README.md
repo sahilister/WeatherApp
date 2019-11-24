@@ -16,7 +16,7 @@ Weather App using javascript to tell weather and timezone.
 
 
 
-## Source and References
+## Sources and References
 
 - [Dev Ed's Original Video](https://www.youtube.com/watch?v=wPElVpR1rwA)
 - [Dark Sky API](https://darksky.net/dev)
