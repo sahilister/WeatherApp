@@ -1,5 +1,5 @@
 # WeatherApp
-Weather App using javascript to tell weather and timezone.
+App using Javascript to tell weather and timezone.
 
 
 
