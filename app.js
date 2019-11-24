@@ -26,7 +26,7 @@ window.addEventListener("load", () => {
 
                 temperatureDegree.textContent = temperatureInCelsius;
                 temperatureDesription.textContent = summary;                  
-                locationTimezone.textContent = data.timezone;       //location info disp
+                locationTimezone.textContent = data.timezone;       //location timezone disp
 
                 setIcons(icon, document.querySelector('.icon'));
             })
