@@ -22,5 +22,4 @@ App using Javascript to tell weather and timezone.
 - [Dark Sky API](https://darksky.net/dev)
 - [CORS Anywhere](https://cors-anywhere.herokuapp.com/)
 - [Dark Sky Icons](https://darkskyapp.github.io/skycons/)
-- [Toguro85's Weather App](https://github.com/Toguro85/Weather-App)
 
